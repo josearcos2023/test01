@@ -8,5 +8,10 @@ class Controller{
 
 	}
 
+	public void init(){
+
+	// TO DO
+
+	}
 
 }
